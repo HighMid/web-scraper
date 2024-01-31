@@ -1,26 +1,26 @@
-web-scraper Repo
-At CF
-LAB - Class 17 Project: web-scraper
+## web-scraper Repo
 
-Author: DeAndre Ordonez
+### LAB - Class 17 Project: web-scraper
 
-Links and Resources - [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+### Author: DeAndre Ordonez
 
-Setup - N/A
+### Links and Resources - [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 
-PORT - N/A
+### Setup - N/A
 
-DATABASE_URL - N/A
+### PORT - N/A
 
-How to initialize/run your application - N/A
+### DATABASE_URL - N/A
 
-How to use your library
+### How to initialize/run your application - N/A
 
-pip install beautifulsoup4 requests
+### How to use your library
 
-Tests How do you run tests?
+- pip install beautifulsoup4 requests
 
-python page_parsin/request_page.py
+### Tests How do you run tests?
+
+- python page_parsin/request_page.py
 
 Expected result = {
 
@@ -31,13 +31,9 @@ Expected result = {
 
 }
 
-Tested
+### Tested- N/A
 
-N/A
-
-Any tests of note?
-
-N/A
+### Any tests of note? - N/A
 
 Describe any tests that you did not complete, skipped, etc
 
