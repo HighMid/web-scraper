@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 
-def parse(url):
+
+def parse(response):
     
-    response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     
     title = soup.find('h1', {'id': 'firstHeading'}).text
