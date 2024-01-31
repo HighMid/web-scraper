@@ -16,11 +16,11 @@
 
 ### How to use your library
 
-- pip install beautifulsoup4 requests
+`pip install beautifulsoup4 requests`
 
 ### Tests How do you run tests?
 
-- python page_parsin/request_page.py
+`python page_parsin/request_page.py`
 
 Expected result = {
 
@@ -35,6 +35,4 @@ Expected result = {
 
 ### Any tests of note? - N/A
 
-Describe any tests that you did not complete, skipped, etc
-
-N/A
+### Describe any tests that you did not complete, skipped, etc - N/A
