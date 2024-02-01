@@ -20,19 +20,22 @@
 
 ### Tests How do you run tests?
 
-`python page_parsin/request_page.py`
-
-Expected result = {
-
-- Title: Terraria
-- Number of citations needed: 2
-- Citation needed for: ipsum lorem
-- Citation needed for: ipsum lorem
-
-}
+`python page_parsing/terraria_scraper.py`
 
 ### Tested- N/A
 
 ### Any tests of note? - N/A
 
 ### Describe any tests that you did not complete, skipped, etc - N/A
+
+//////////////////////////////////////////////////////////////////////
+
+## Change Log
+
+### 31 Jan 24
+
+- Refactor scraper.py, uses three functions instead.
+- All previous code has been moved and will not be pushed
+- Updated README.md with right information(was running on an old .py file)
+- Renamed page_parsin -> page_parsing
+- W oa bck o mcrofvo aowb ZCZ, 66
